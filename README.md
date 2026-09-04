@@ -9,6 +9,26 @@ I enjoy turning ideas into practical digital solutions, developing
 robust backend systems, designing clean APIs, and working across
 the full web development stack.
 
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mahfuz-sarker-shifat-9b3b56406/">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+<a href="https://www.behance.net/mahfuz_s_shifat">
+  <img 
+    src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"
+  />
+</a>
+
+</p>
+
+---
+
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 ---
@@ -73,26 +93,6 @@ the full web development stack.
 <img 
   src="https://streak-stats.demolab.com?user=mahfuz-s-shifat&theme=tokyonight&hide_border=true" 
 />
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/mahfuz-sarker-shifat-9b3b56406/">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-
-<a href="https://www.behance.net/mahfuz_s_shifat">
-  <img 
-    src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"
-  />
-</a>
 
 </p>
 
