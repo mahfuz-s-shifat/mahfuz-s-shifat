@@ -9,6 +9,8 @@ I enjoy turning ideas into practical digital solutions, developing
 robust backend systems, designing clean APIs, and working across
 the full web development stack.
 
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+
 ---
 
 ## 🚀 About Me
@@ -64,24 +66,6 @@ the full web development stack.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=mahfuz-s-shifat&show_icons=true&hide_border=true&theme=tokyonight" 
-  height="170"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-s-shifat&layout=compact&hide_border=true&theme=tokyonight" 
-  height="170"
-/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -89,16 +73,6 @@ the full web development stack.
 <img 
   src="https://streak-stats.demolab.com?user=mahfuz-s-shifat&theme=tokyonight&hide_border=true" 
 />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mahfuz-s-shifat/mahfuz-s-shifat/output/github-contribution-grid-snake.svg" />
 
 </p>
 
